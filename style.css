@@ -1,0 +1,7 @@
+body{background:#111;color:#ddd;font-family:Arial,sans-serif;margin:20px}
+h1{text-align:center;color:#7fdcff}
+.toolbar{text-align:center;margin:15px}
+button{padding:8px 12px;margin:4px}
+#diagram{width:100%;height:700px;background:#1b1b1b;border:1px solid #555}
+.calc{margin-top:15px;padding:10px;background:#1b1b1b}
+#scenarioTitle{text-align:center;font-size:22px;margin:10px;color:#ffd36e}
